@@ -1,0 +1,22 @@
+{
+  "name": "voronoid",
+  "version": "1.0.0",
+  "description": "Server-side voronoid",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "d3",
+    "voronoid",
+    "maps"
+  ],
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "d3-delaunay": "^6.0.4"
+  },
+  "devDependencies": {
+    "@types/d3-delaunay": "^6.0.4"
+  }
+}
