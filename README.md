@@ -1,4 +1,4 @@
-# Voronoi map fpr centipede
+# Voronoi map for centipede
 
 Test to show how a map can be generated using voronoi diagram from GNSS caster (here centipede)
 
